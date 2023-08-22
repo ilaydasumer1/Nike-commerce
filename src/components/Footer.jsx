@@ -32,7 +32,7 @@ const Footer = ({ footerAPI: { titles, links } }) => {
             <p className="text-sm md:text-center">
               Copyright<sup className="text-base font-bold">&copy;</sup> All
               Reserved Rights{" "}
-              <span className="font-semibold">İLAYDA SÜMER DEVELOPERS {Year}</span>
+              <span className="font-semibold">İLAYDA SÜMER DEVELOPER {Year}</span>
             </p>
           </div>
         </div>
